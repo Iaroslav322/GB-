@@ -1,0 +1,15 @@
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\bin\Debug\net6.0\задача 15.exe
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\bin\Debug\net6.0\задача 15.deps.json
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\bin\Debug\net6.0\задача 15.runtimeconfig.json
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\bin\Debug\net6.0\задача 15.dll
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\bin\Debug\net6.0\задача 15.pdb
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\задача 15.csproj.AssemblyReference.cache
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\задача 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\задача 15.AssemblyInfoInputs.cache
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\задача 15.AssemblyInfo.cs
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\задача 15.csproj.CoreCompileInputs.cache
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\задача 15.dll
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\refint\задача 15.dll
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\задача 15.pdb
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\задача 15.genruntimeconfig.cache
+C:\Users\fluff\Desktop\GB\семинар2\задача 15\obj\Debug\net6.0\ref\задача 15.dll
