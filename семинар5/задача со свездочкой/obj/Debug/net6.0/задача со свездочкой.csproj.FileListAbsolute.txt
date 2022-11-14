@@ -1,0 +1,15 @@
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\bin\Debug\net6.0\задача со свездочкой.exe
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\bin\Debug\net6.0\задача со свездочкой.deps.json
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\bin\Debug\net6.0\задача со свездочкой.runtimeconfig.json
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\bin\Debug\net6.0\задача со свездочкой.dll
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\bin\Debug\net6.0\задача со свездочкой.pdb
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\задача со свездочкой.csproj.AssemblyReference.cache
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\задача со свездочкой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\задача со свездочкой.AssemblyInfoInputs.cache
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\задача со свездочкой.AssemblyInfo.cs
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\задача со свездочкой.csproj.CoreCompileInputs.cache
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\задача со свездочкой.dll
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\refint\задача со свездочкой.dll
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\задача со свездочкой.pdb
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\задача со свездочкой.genruntimeconfig.cache
+C:\Users\fluff\Desktop\GB\семинар5\задача со свездочкой\obj\Debug\net6.0\ref\задача со свездочкой.dll
